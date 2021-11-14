@@ -1,1 +1,1 @@
-web:gunicorn app:can_app
+web:gunicorn server:can_app
